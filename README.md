@@ -1,7 +1,8 @@
 Live Link: https://knxtwatch.ccbp.tech
 
-Username: rahul
-Password: rahul@2021
+**Username**: rahul
+
+**Password**: rahul@2021
 
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
